@@ -1,1 +1,2 @@
 # animation_02
+这个demo源自JS编程艺术，用setTimeout写入动画，要注意的是其中的全局事件处理方法
